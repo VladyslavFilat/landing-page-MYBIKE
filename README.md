@@ -22,7 +22,6 @@ The project's design is based on the following Figma file.
 ## 🚀 Getting Started
   To get a local copy up and running, follow these simple steps.
 
-  ---
 
   ### Clone the repository:
 
