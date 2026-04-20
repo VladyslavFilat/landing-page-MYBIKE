@@ -8,7 +8,7 @@ This project is a modern, responsive landing page created to showcase products f
 ## 🔴 Live Preview
 You can view the live, deployed version of the project here:
 
-  - [MyBike-DEMO LINK](https://vladyslavfilat.github.io/landing-page-MYBIKE/)
+  - [DEMO LINK](https://vladyslavfilat.github.io/landing-page-MYBIKE/)
 
   ---
 
