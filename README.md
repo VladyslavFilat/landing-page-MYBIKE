@@ -25,19 +25,16 @@ The project's design is based on the following Figma file.
   ---
 
   ### Clone the repository:
-   ```bash
+  
     git clone https://github.com/VladyslavFilat/landing-page-MYBIKE.git
 
     Open the project folder:
-  ```bash
+
     cd landing-page-MYBIKE
 
     Install NPM packages:
-  ```bash
     npm install
-  ```bash
     Start the project:
-   ```bash
     npm start
 
 ---
