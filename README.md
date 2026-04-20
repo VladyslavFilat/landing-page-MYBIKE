@@ -1,5 +1,6 @@
 
 🔳 MYBIKE  Landing Page
+
 This project is a modern, responsive landing page created to showcase products from the "MyBike" store. It is designed in a clean, minimalist style that aligns with the store’s identity, with a focus on user experience and visual appeal.
 
 🔴 Live Preview
