@@ -19,13 +19,17 @@ To get a local copy up and running, follow these simple steps.
 Clone the repository:
 
 -git clone https://github.com/VladyslavFilat/landing-page-MYBIKE.git
+
 -Open the project folder:
+
 -cd landing-page-MYBIKE
 
 -Install NPM packages:
+
 -npm install
 
 -Start the project:
+
 -npm start
 
 💻 Technologies Used
